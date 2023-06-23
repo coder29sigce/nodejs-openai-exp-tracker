@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_openai_test",
+  "version": "1.0.0",
+  "description": "just a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coder29",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "openai": "^3.3.0"
+  }
+}
